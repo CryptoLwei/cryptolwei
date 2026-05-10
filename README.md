@@ -11,7 +11,7 @@ Then I started building it myself.
 
 [![Website](https://img.shields.io/badge/cryptolwei.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://cryptolwei.com)
 [![X](https://img.shields.io/badge/@cryptolwei-000000?style=flat&logo=x&logoColor=white)](https://x.com/cryptolwei)
-[![YouTube](https://img.shields.io/badge/CryptoLwei-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/CryptoLwei)
+[![YouTube](https://img.shields.io/badge/CryptoLwei-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=NovgN5c0ZsU&t=1s)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/cryptolwei.bsky.social)
 
 </div>
