@@ -19,6 +19,7 @@ Then I started building it myself.
 ---
 
 ## 🧭 The Journey
+2013 - Discovered BTC and got hooked in the revolution, in the process and in the tecnology
 2024 → Built cryptolwei.com — 20-page educational crypto site from scratch
 HTML · Tailwind CSS · Vanilla JS
 
