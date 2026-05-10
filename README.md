@@ -2,7 +2,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/195447843" alt="CryptoLwei Logo" width="120" />
 
-# 👋 Hey, I'm Augusto — aka CryptoLwei
+# 👋 Hey, I'm CryptoLwei
 
 **Crypto educator, trader and analytic turned on-chain builder.**
 
