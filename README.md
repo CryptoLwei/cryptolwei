@@ -59,7 +59,7 @@ text
 
 ## 🛠️ Tech
 Blockchain Solidity · Ethereum · Algorand · AlgoKit · OpenZeppelin
-Frontend HTML5 · Tailwind CSS · TypeScript · Vanilla JS
+Frontend HTML5 · Tailwind CSS · Python · TypeScript · Vanilla JS
 Education HackQuest Web3 Certification
 
 text
