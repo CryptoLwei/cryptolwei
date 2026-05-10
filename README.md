@@ -31,7 +31,6 @@ ERC-20 token · Breedable ERC-721 NFTs · Decentralized crowdfunding
 2025 → Built CryptoLwei DeFi PoC
 Gamified NFT learning platform on Algorand · Python
 
-text
 
 ---
 
@@ -63,7 +62,6 @@ Blockchain Solidity · Ethereum · Algorand · AlgoKit · OpenZeppelin
 Frontend HTML5 · Tailwind CSS · Python · TypeScript · Vanilla JS
 Education HackQuest Web3 Certification
 
-text
 
 ---
 
