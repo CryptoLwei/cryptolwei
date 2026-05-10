@@ -28,7 +28,7 @@ HTML · Tailwind CSS · Vanilla JS
 ERC-20 token · Breedable ERC-721 NFTs · Decentralized crowdfunding
 
 2025 → Built CryptoLwei DeFi PoC
-Gamified NFT learning platform on Algorand · TypeScript
+Gamified NFT learning platform on Algorand · Python
 
 text
 
@@ -52,7 +52,7 @@ text
 ### 🔷 Algorand
 | Repo | Description | Stack |
 |------|-------------|-------|
-| [CryptoLwei-DeFi-PoC](https://github.com/cryptolwei/CryptoLwei-DeFi-PoC) | Gamified NFT learning platform with on-chain achievements | TypeScript · Algorand · Python |
+| [CryptoLwei-DeFi-PoC](https://github.com/cryptolwei/CryptoLwei-DeFi-PoC) | Gamified NFT learning platform with on-chain achievements | Python · Algorand |
 | [Algorand-Web3-Masterclasses-POC](https://github.com/cryptolwei/Algorand-Web3-Masterclasses-POC) | Algorand Web3 masterclass PoC | Algorand |
 
 ---
@@ -79,4 +79,4 @@ text
   <i>Building in public. Learning on-chain.</i><br/><br/>
   📧 cryptolwei@gmail.com
 </div>
--->
+
