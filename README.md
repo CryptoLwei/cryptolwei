@@ -4,9 +4,9 @@
 
 # 👋 Hey, I'm CryptoLwei
 
-**Crypto educator, trader and analytic turned on-chain builder.**
+**Crypto educator, dev, and analytic turned on-chain builder.**
 
-I started by trading and teaching people how crypto works.  
+I started by teaching people how crypto works while exploring more and more.  
 Then I started building it myself.
 
 [![Website](https://img.shields.io/badge/cryptolwei.com-000000?style=flat&logo=google-chrome&logoColor=white)](https://cryptolwei.com)
