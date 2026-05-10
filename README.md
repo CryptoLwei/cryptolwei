@@ -4,7 +4,7 @@
 
 # 👋 Hey, I'm Augusto — aka CryptoLwei
 
-**Crypto educator,trader and analytic turned on-chain builder.**
+**Crypto educator, trader and analytic turned on-chain builder.**
 
 I started by trading and teaching people how crypto works.  
 Then I started building it myself.
